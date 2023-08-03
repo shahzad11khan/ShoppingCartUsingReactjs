@@ -1,0 +1,22 @@
+.header{
+    background-color: red;
+    display: flex;
+}
+ul li{
+    display: inline-block;
+    padding: 20px;
+    font-weight: bold;
+}
+.deco{
+    text-decoration: none;
+    color: white;
+   
+
+}
+
+.deco:hover{
+    /* border-bottom: 2px solid rgb(16, 14, 39); */
+    border-top: 2px solid wheat;
+    padding: 5px;
+    color: rgb(16, 14, 16);
+}

@@ -1,0 +1,7 @@
+.cart{
+    display: inline-block;
+    padding: 10px;
+    border: 2px solid red;
+    margin-left: 10px;
+    height: 200px;
+}
